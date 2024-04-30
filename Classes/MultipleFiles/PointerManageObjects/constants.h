@@ -1,0 +1,5 @@
+#ifndef CONSTANTS_H //* THESE ARE INCLUDE GUARDS
+#define CONSTANTS_H //* THESE ARE INCLUDE GUARDS
+const double PI {3.1415926535897932384626433832795}; //* Moved this to constants.h
+
+#endif 
