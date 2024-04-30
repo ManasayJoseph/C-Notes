@@ -8,6 +8,7 @@ My entire c++ learning path available to all to copy. This has everything I ever
 4. Copy the path of the bin folder inside the mingw64 folder
 5. Add this path to the PATH environment variable. (C:\mingw64\bin)
 6. Test by running gcc on a new command prompt window.
+7. Add the tasks.json to vscode if you are using it.
  
 ## How to learn from this repostry:
 1. Clone this. Read the following and everything else is in the everything.cpp file.
