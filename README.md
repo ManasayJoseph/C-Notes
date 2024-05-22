@@ -2,7 +2,7 @@
 My entire c++ learning path available to all to copy. This has everything I ever studied. Ignore any mistake
 
 ## How to compile C++ :
-1. Download the latest version from [](https://winlibs.com/) .
+1. Download the latest version from [winlibs](https://winlibs.com/) .
 2. Extract the zip to documents(or anywhere you want).
 3. Move the mingw64 file to the C:\ directory
 4. Copy the path of the bin folder inside the mingw64 folder
